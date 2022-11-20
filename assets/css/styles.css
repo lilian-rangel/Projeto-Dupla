@@ -286,3 +286,22 @@
 #footer span {
     font-weight: bold;
 }
+
+/* Mobile */
+@media (max-width: 450px) {
+
+    /* Event Form */
+    #event-description {
+        flex-direction: column;
+        height: auto;
+    }
+ 
+    #disclaimer h2 {
+        margin-bottom: .5em;
+    }
+
+    #subscription-form {
+        max-width: 70%;
+        margin-bottom: 2em;
+    }
+}
