@@ -5,8 +5,8 @@
 O objetivo era vivenciarmos o dia a dia mais realista de um desenvolvedor ao trabalhar com mais pessoas num projeto.<br>
 </p>
 
-<h2>Aprendizados nesse projeto 🎯</h2>
-Com esse projeto aprendemos um pouco mais sobre a criação de um projeto do zero, comandos GIT (como branch checkout, merge) e media queries. <br>
+<h2 align="center">Aprendizados nesse projeto 🎯</h2>
+Com esse projeto aprendemos um pouco mais sobre a criação de um projeto do zero, comandos GIT (como branch checkout, merge) e responsividade com uso de media queries. <br>
 Além de como é importante trabalhar em equipe, algo que levaremos para a nossa vida como desenvolvedores.
 
 <h2>Tecnologias utilizadas 🛠</h2><br>
@@ -15,18 +15,21 @@ Além de como é importante trabalhar em equipe, algo que levaremos para a nossa
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
 
 <hr>
-<h2>Deploy 👨🏽‍💻</h2>
-<a href="" target="_blank">Confira a nossa landing page nesse link</a>
+<h2 align="center">Deploy 👨🏽‍💻</h2>
+<a href="https://lilian-rangel.github.io/Projeto-Dupla/" target="_blank">Confira a nossa landing page nesse link</a>
 <hr>
 
 
 <hr>
-<h2> Prints da página</h2>
+<h2 align="center">Prints da página</h2>
 <br />
 
-<img width="50%" src="">
-<img width="50%" src="">
-<img width="50%" src="">
+<img width="100%" src="https://user-images.githubusercontent.com/105670314/203064599-01de5827-9453-4f4d-91c9-4fa4b1d3faa9.jpg">
+<img width="100%" src="https://user-images.githubusercontent.com/105670314/203064649-982979ba-cff8-4abb-b653-7e6704cfd37c.jpg">
+<img width="100%" src="https://user-images.githubusercontent.com/105670314/203064729-dd879d8b-f7b1-48c0-9329-8cf991de408f.jpg">
+<img width="100%" src="https://user-images.githubusercontent.com/105670314/203064779-88230a12-ed01-4250-97af-c926fa03162d.jpg">
+<img width="100%" src="https://user-images.githubusercontent.com/105670314/203064842-741224a6-1f19-4287-94b2-7db16205bab1.jpg">
+
 
 <h2> Contributors 💻</h2>
 <table>
