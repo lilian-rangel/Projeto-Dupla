@@ -289,6 +289,9 @@
 
 /* Mobile */
 @media (max-width: 450px) {
+    .btn {
+        opacity: 1;
+    }
 
     /* Event Form */
     #event-description {
@@ -352,6 +355,43 @@
 
 #about-location p {
     display: none;
+}
+
+/* Event details container*/
+.detail {
+    flex-direction: column;
+    margin-bottom: 0.5em;
+    gap: 0;
+}
+
+.detail img {
+    width: 100%;
+    margin: 2em 0;
+}
+
+#detail-1 img {
+    display: none;
+}
+
+.detail-description {
+    padding: 0;
+}
+
+#detail-3 img {
+    order: 2;
+}
+
+#detail-3 .detail-description {
+    order: 1;
+}
+
+/* Call to Action Section*/
+#cta {
+    text-align: center;
+}
+
+#cta .btn {
+    width: 80%;
 }
 
 
